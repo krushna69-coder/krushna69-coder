@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krushna69-coder" alt="krushna69-coder" /></a> </p>
 
-- 🔭 I’m currently working on developing **Dragan Game**
+- 🔭 I’m currently working on developing **REACT,JAVA SCRIPT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krushna69-coder](https://github.com/krushna69-coder)
 
